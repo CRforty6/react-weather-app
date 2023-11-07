@@ -2,13 +2,9 @@
     width: 550px;
     height: 670px;
     margin: auto;
-    margin-top: 75px;
+    margin-top: 65px;
     border-radius: 20px;
-    background-image: linear-gradient(to right, #2F80ED, #56CCF2);
-}
-
-body {
-    background: linear-gradient(45deg, black, #708090)
+    background-image: linear-gradient(to right, #3081ED, #00b0ff);
 }
 
 .top-bar{
